@@ -1,5 +1,4 @@
 package webdriver;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -79,7 +78,6 @@ public class webDriver {
   	    dri.close();  
   	    return result;	
 	}
-	
 }
 
 
